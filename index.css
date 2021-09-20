@@ -30,7 +30,14 @@ body{
     font-size: 45px;
 }
 
-#P1{
+#ProjectStyle{
     text-align: center;
     font-size: 35px;
+}
+
+#ProjectLink{
+    text-align: center;
+    display:block;
+    font-size: 25px;
+    
 }

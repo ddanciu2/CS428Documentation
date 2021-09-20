@@ -1,0 +1,64 @@
+body{
+    background-color: lightblue;
+}
+
+.Intro{
+  border-style:solid;
+  margin-left: 20%;
+  margin-right: 20%;
+  color: black;
+  background-color: white;
+}
+
+#Project1Title{
+    text-align: center;
+    font-size: 45px;
+}
+
+#ProjectStyle{
+    text-align: center;
+    font-size: 35px;
+}
+
+#ProjectLink{
+    text-align: center;
+    display:block;
+    font-size: 20px;
+    
+}
+
+#DocIntro{
+    font-size:18px;
+    text-align: center;
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top:2.5%;
+    padding-bottom: 2.5%;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: white;
+}
+
+#DocIntro .p{
+    margin-left:15%
+}
+
+
+#CubeHeader{
+    text-align: center;
+    font-size: 35px;
+}
+
+#DocCube{
+    font-size:18px;
+    text-align: center;
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top:0.5%;
+    padding-bottom: 2.5%;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: white;
+}
